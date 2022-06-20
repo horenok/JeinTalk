@@ -69,7 +69,6 @@ public class MainServer {
 				threadStrartServer threadStrartServer = new threadStrartServer();
 				strStatusMessage.setText("서버 실행중......");
 				threadStrartServer.start();
-				
 			}
 		});
 		
